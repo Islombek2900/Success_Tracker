@@ -596,7 +596,7 @@
         </form>
         
         <div class="copyright">
-            <span class="copyright-symbol">©</span> <span class="jupiter-text">JUPITER</span>
+            <span class="copyright-symbol">©</span> <span class="jupiter-text">Fahrenheit 451</span>
         </div>
     </div>
     
