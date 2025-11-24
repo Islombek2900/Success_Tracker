@@ -602,7 +602,7 @@
     
     <script>
         // REPLACE THIS URL WITH YOUR NEW APPS SCRIPT WEB APP URL
-        const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxP1mJpyxlBJacP4foGAS69piFoqdv5VZt3OXphTxs_rL75gCxHjdputTcHShTIctk6XA/exec'; 
+        const SCRIPT_URL = 'https://docs.google.com/spreadsheets/d/1ujXc91oc0LOns7aRMtdWhCVV4NseNTcZVoobzSQf-5A/edit?usp=sharing'; 
         
         // Team member data
         const teamData = {
